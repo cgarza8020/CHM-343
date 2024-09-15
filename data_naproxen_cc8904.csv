@@ -1,0 +1,41 @@
+Website,https://asu-molecular-sciences-cloud-lab.github.io/bomb_calorimetry_v2/ 
+Simulated Calorimeter,Parr #8904
+Sample Name,Naproxen
+Formula,C14H14O3
+Molecular Weight (g/mol),230.260
+Sample Weight (g),1.0000
+Water Temp (deg C),22.00
+Room Temp (deg C),24.66
+Water Volume (L),2.0
+Wire Before (g),0.022
+Wire After (g),0.016
+=====,=====
+Time (s), Temperature (C)
+0.00,22.00
+60.00,22.00
+120.00,22.01
+180.00,22.01
+240.00,22.01
+300.00,22.02
+315.00,22.03
+330.00,22.27
+345.00,22.63
+360.00,23.01
+375.00,23.36
+390.00,23.65
+405.00,23.90
+420.00,24.09
+435.00,24.25
+450.00,24.37
+465.00,24.46
+480.00,24.53
+540.00,24.69
+600.00,24.74
+660.00,24.73
+720.00,24.73
+780.00,24.73
+840.00,24.74
+900.00,24.73
+960.00,24.73
+1020.00,24.73
+1080.00,24.74
